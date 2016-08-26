@@ -1,0 +1,3 @@
+== README
+
+Part I test Packen: You can get anagrams and anagrams of a word list
